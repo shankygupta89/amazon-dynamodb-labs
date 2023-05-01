@@ -29,3 +29,6 @@ With these entities and relationships in mind, the entity-relationship diagram i
 ![ERD](/images/game-player-data/plan-model/erd.png)
 
 Next, we will take a look at the access patterns the data model needs to support.
+
+
+kamal kishore
